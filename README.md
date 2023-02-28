@@ -42,6 +42,9 @@
 <a href="https://github.com/alex-jordan547/alex-jordan547">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
+ <a href="https://github.com/alex-jordan547/alex-jordan547">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=2d79c7"">
+</a>
 <a href="https://github.com/alex-jordan547/alex-jordan547">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
@@ -51,10 +54,20 @@
 <a href="https://github.com/alex-jordan547/alex-jordan547">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java">
 </a>
+ <a href="https://github.com/alex-jordan547/alex-jordan547">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=markdown">
+</a>
 </p>
 
-  <details>
+<div align="left">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alex-jordan547&bg_color=231f21&color=dac3da&line=e6b3e2&point=7923e1&area=true&hide_border=true"/>
+</div>
+
+<details>
   <summary><b>Voir plus </b></summary>
+                                                                                            
+## Github analytics
+                                                                                            
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-jordan547&count_private=trues&show_icons=true&theme=cobalt" width="54.25%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-jordan547&layout=compact&hide_border=true" width="45.25%" />
@@ -71,5 +84,5 @@
 </div>
 </details>
   
-# 📫 Me contacter &nbsp; <a href="mailto:alextsague98@gmail.com?subject=Salut%20Alex,%20Depuis%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+## 📫 Me contacter &nbsp; <a href="mailto:alextsague98@gmail.com?subject=Salut%20Alex,%20Depuis%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
