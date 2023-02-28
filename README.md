@@ -69,7 +69,7 @@
     <a href="https://github.com/alex-jordan547/alex-jordan547" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alex-jordan547/alex-jordan547?label=profile%20updated&style=flat-square">
     </a>
 </div>
+</details>
   
 # 📫 Me contacter &nbsp; <a href="mailto:alextsague98@gmail.com?subject=Salut%20Alex,%20Depuis%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</details>
   
