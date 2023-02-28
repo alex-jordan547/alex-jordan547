@@ -1,4 +1,4 @@
-# Salut ici 👋
+# Salut 👋
 <p align="left">
 <a href="https://github.com/alex-jordan547/alex-jordan547">
 <img  src="https://readme-components.vercel.app/api?component=text&text=IM%20ALEX&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
