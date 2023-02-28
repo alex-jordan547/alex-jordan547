@@ -68,7 +68,7 @@
                                                                                             
 ## Github analytics
                                                                                             
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-jordan547&count_private=trues&show_icons=true&theme=cobalt" width="54.25%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-jordan547&layout=compact&hide_border=true" width="45.25%" />
 </div>
